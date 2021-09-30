@@ -2,9 +2,8 @@
 
 ![ui2](Graduate%20Admission%20Predicition/interface/GRE_test/2.jpg)
 
-A system to predict your chances of admission as per : GRE, TOEFL, LOR, SOP (text) and GPA
-
 ## Welcome
+A system to predict your chances of admission as per : GRE, TOEFL, LOR, SOP (text) and GPA
 
 All files can be found in these two directories :
 
